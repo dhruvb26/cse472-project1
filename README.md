@@ -213,6 +213,8 @@ For detailed implementation of these network measures and to generate updated st
 
 To understand the main topics and themes discussed in the collected posts, I performed content analysis using the Unsloth `unsloth/llama-3-8b-bnb-4bit` language model. This analysis involved keyword extraction from approximately 600 posts and visualization of the prominent themes.
 
+Here is the link to the [Colab Notebook](https://colab.research.google.com/drive/17itXDoBFpcPKa6Vj0fjCgjrN3qvUtLoO?usp=sharing).
+
 ### Prompt Engineering
 
 I crafted a specialized prompt to extract meaningful keywords while maintaining consistency and quality:
